@@ -54,7 +54,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/Vedant-Jayesh-Oza/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Vedant-Jayesh-Oza&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+[![Vedant's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Vedant-Jayesh-Oza&theme=xcode)](https://github.com/Vedant-Jayesh-Oza)
 
 <br/>
 <br/>
