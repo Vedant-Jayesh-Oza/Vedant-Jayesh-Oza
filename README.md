@@ -12,8 +12,6 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://vedant-jayesh-oza.github.io/vedantozaCV/)**
-
 - 📫 How to reach me **vedantoza1313@gmail.com**
 
 - ⚡ Fun fact **I play Dream League Soccer and PES.**
