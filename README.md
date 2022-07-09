@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-I’m currently working on **[DubsDAO](https://github.com/Vedant-Jayesh-Oza/DubsDAO)**
+- 🔭 I’m currently working on **[DubsDAO](https://github.com/Vedant-Jayesh-Oza/DubsDAO)**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
