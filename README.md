@@ -1,12 +1,12 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi, I'm Vedant</h1>
-<h3 align="center">I'm a Aspiring Full Stack Developer and currently a Competitive Programmer and a front-end web Developer from India.</h3>
+<h3 align="center">I'm a Web Developer and currently exploring the Web3 Space 🚀.</h3>
 
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Educational Blog Using Java at backend]**
+I’m currently working on **[DubsDAO](https://github.com/Vedant-Jayesh-Oza/DubsDAO)**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
