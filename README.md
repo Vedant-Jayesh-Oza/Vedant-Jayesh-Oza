@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="![image](https://user-images.githubusercontent.com/75005433/218260577-38d23dd4-4319-4d91-9c74-f878748df09e.png)" height="175px"/></a>
 
 <h1 align="center">Hi, I'm Vedant</h1>
 <h3 align="center">I'm a Web Developer and currently exploring the Web3 Space 🚀.</h3>
