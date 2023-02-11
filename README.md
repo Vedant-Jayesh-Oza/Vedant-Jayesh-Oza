@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw3Z5VUn9Zzr7PmxJ6140dRr&ust=1676208549280000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCLjKjsvJjf0CFQAAAAAdAAAAABAJ" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="[[https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw3Z5VUn9Zzr7PmxJ6140dRr&ust=1676208549280000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCLjKjsvJjf0CFQAAAAAdAAAAABAJ](https://media.tenor.com/cX92mi1p-NYAAAAC/coding-anime.gif)](https://media.tenor.com/cX92mi1p-NYAAAAC/coding-anime.gif)" height="175px"/></a>
 
 <h1 align="center">Hi, I'm Vedant</h1>
 <h3 align="center">I'm a Web Developer and currently exploring the Web3 Space 🚀.</h3>
