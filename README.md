@@ -6,15 +6,15 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[DubsDAO](https://github.com/Vedant-Jayesh-Oza/DubsDAO)**
+- 🔭 I’m currently working on **[EtherExchange](https://github.com/Vedant-Jayesh-Oza/EtherExchange)**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently learning **Solidity & Motoko.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 - 📫 How to reach me **vedantoza1313@gmail.com**
 
-- ⚡ Fun fact **I play Dream League Soccer and PES.**
+
 
 ## 🚀 Languages and Tools:
 
@@ -68,7 +68,7 @@
 </p>
 
 ## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+<a href="https://github.com/Vedant-Jayesh-Oza/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Vedant-Jayesh-Oza">
 </a>
 <a href="https://github.com/Vedant-Jayesh-Oza?tab=followers"><img src="https://img.shields.io/github/followers/Vedant-Jayesh-Oza?label=Followers&style=social" alt="GitHub Badge"></a>
