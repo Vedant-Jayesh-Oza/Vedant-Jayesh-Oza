@@ -52,7 +52,10 @@
 <br/>
 <br/>
 
-[![Vedant's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Vedant-Jayesh-Oza&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true&hide_border=true)](https://github.com/Vedant-Jayesh-Oza)
+## Github Activity Graph
+
+![Vedant's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Vedant-Jayesh-Oza&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true&hide_border=true)
+
 
 
 <br/>
