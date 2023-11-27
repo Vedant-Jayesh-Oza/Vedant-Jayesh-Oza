@@ -52,7 +52,8 @@
 <br/>
 <br/>
 
-[![Vedant's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Vedant-Jayesh-Oza&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true")](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Vedant's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Vedant-Jayesh-Oza&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true&hide_border=true)](https://github.com/Vedant-Jayesh-Oza)
+
 
 <br/>
 <br/>
