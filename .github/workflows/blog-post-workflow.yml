@@ -18,7 +18,7 @@ jobs:
     - name: Get Medium Blogs
       uses: gautamkrishnar/blog-post-workflow@master
       with:
-        feed_list: "https://medium.com/feed/@myusername"
+        feed_list: "https://medium.com/feed/@vedantoza1313"
         
     - name: Update README
       uses: jamesgeorge007/github-activity-readme@master
