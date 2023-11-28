@@ -1,19 +1,26 @@
-name: Latest blog post workflow
+// .github/workflows/update-readme.yml
+
+name: Update Readme with Medium Blogs 
+
 on:
-  schedule: # Run workflow automatically
-    - cron: '0 * * * *' # Runs every hour, on the hour
+  schedule:    
+    - cron: '0 * * * *'  // runs every hour
   workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the GitHub Actions Workflow page directly
-permissions:
-  contents: write # To write the generated contents to the readme
 
 jobs:
-  update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
+
+  update-readme:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout
-        uses: actions/checkout@v3
-      - name: Pull in dev.to posts
-        uses: gautamkrishnar/blog-post-workflow@v1
-        with:
-          feed_list: "https://medium.com/@vedantoza1313"
+    - uses: actions/checkout@v2
+    
+    - name: Get Medium Blogs
+      uses: gautamkrishnar/blog-post-workflow@master
+      with:
+        feed_list: "https://medium.com/feed/@myusername"
+        
+    - name: Update README
+      uses: jamesgeorge007/github-activity-readme@master
+      env:
+        MEDIUM_BLOGS: "```json ${{steps.feed.outputs.feed}} ```"
