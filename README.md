@@ -13,22 +13,37 @@
 
 - 👯 I’m looking to collaborate on **Ethereum and Internet Computer Based Projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Vedant-Jayesh-Oza](https://github.com/Vedant-Jayesh-Oza)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/Vedant-Jayesh-Oza)
 
-- 📝 I regularly write articles on [https://medium.com/@vedantoza1313](https://medium.com/@vedantoza1313)
+- 📝 I regularly write articles on [Medium](https://medium.com/@vedantoza1313)
 
 - 💬 Ask me about **ReactJS, Internet Computer, Decentralized Finance, Motoko**
 
 - 📫 How to reach me **vedantoza1313@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/12xcPBRHMsh1AopLZP0lCvq7jOtA3Aqo8/view?usp=drive_link](https://drive.google.com/file/d/12xcPBRHMsh1AopLZP0lCvq7jOtA3Aqo8/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/12xcPBRHMsh1AopLZP0lCvq7jOtA3Aqo8/view?usp=drive_link)
 
 - ⚡ Fun fact **I've got a mean crossover on the basketball court—dribbling through code and defenders with equal finesse! 🚀🔥**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
+# My top Projects  
+1. [Synthify (Machine Learning)](https://github.com/Vedant-Jayesh-Oza/SynthifyCT)
+2. [InfluencersMart (Web Development)](https://github.com/Vedant-Jayesh-Oza/InfluencersMart)
+3. [FlexifitGuide (Web Development)](https://github.com/Vedant-Jayesh-Oza/FlexiFitGuide)
+4. [DANGToken (Blockchain)](https://github.com/Vedant-Jayesh-Oza/DANGToken)
+5. [DubsDAO (Blockchain)](https://github.com/Vedant-Jayesh-Oza/DubsDAO)
+6. [Travel-Sense (Web Development)](https://github.com/Vedant-Jayesh-Oza/Travel-Sense)
+7. [DBank-Motoko (Blockchain)](https://github.com/Vedant-Jayesh-Oza/Dbank-Motoko)
+8. [VisualSortLab (Web Development)](https://github.com/Vedant-Jayesh-Oza/VisualSortLab)
+9. [Air-Quality-Monitoring (IoT)]
+10. [BlockRealty (Blockchain)]
+    
+# Blog posts
+1. [Nervos Network](https://medium.com/@vedantoza1313/nervos-universal-passport-to-blockchain-16bbb2bccf7b)
+2. [Working of Internet Computer](https://medium.com/@vedantoza1313/how-does-internet-computer-works-c1555a632ab0)
+3.  [Internet Computer](https://medium.com/@vedantoza1313/what-is-the-internet-computer-icp-fdb7c021be94)
+4.  [Working of Blockchain](https://medium.com/@vedantoza1313/how-does-the-blockchain-actually-work-4a30d99cb8c5)
+5.  [DAOs](https://medium.com/@vedantoza1313/what-is-a-dao-and-how-exactly-does-it-work-93b68c755ec1)
+   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/vedantoza9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vedantoza9" height="30" width="40" /></a>
@@ -44,8 +59,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vedant-jayesh-oza&show_icons=true&locale=en" alt="vedant-jayesh-oza" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vedant-jayesh-oza&" alt="vedant-jayesh-oza" /></p>
-
-# Blog posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
