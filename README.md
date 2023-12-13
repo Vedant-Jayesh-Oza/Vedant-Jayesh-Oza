@@ -35,7 +35,7 @@
 7. [DBank-Motoko (Blockchain)](https://github.com/Vedant-Jayesh-Oza/Dbank-Motoko)
 8. [VisualSortLab (Web Development)](https://github.com/Vedant-Jayesh-Oza/VisualSortLab)
 9. [Air-Quality-Monitoring (IoT)]
-10. [BlockRealty (Blockchain)]
+10. [BlockRealty (Blockchain)](https://github.com/Vedant-Jayesh-Oza/BlockRealty)
     
 # Blog posts
 1. [Nervos Network](https://medium.com/@vedantoza1313/nervos-universal-passport-to-blockchain-16bbb2bccf7b)
