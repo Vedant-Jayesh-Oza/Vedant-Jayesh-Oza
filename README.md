@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/vedantoza9" target="blank"><img src="https://img.shields.io/twitter/follow/vedantoza9?logo=twitter&style=for-the-badge" alt="vedantoza9" /></a> </p>
 
-- 🔭 I’m currently working on [Smart-AWS-Vault](https://github.com/Vedant-Jayesh-Oza/GeneScope)
+- 🔭 I’m currently working on [GeneScope](https://github.com/Vedant-Jayesh-Oza/GeneScope)
 
 - 🌱 I’m currently learning **Typescript, Internet Computer Blockchain, Motoko**
 
