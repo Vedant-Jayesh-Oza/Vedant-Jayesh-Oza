@@ -3,8 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedant-jayesh-oza&label=Profile%20views&color=0e75b6&style=flat" alt="vedant-jayesh-oza" /> </p>
 
-- 🔭 Currently building **[OTAS](https://github.com/Vedant-Jayesh-Oza)** — an observability platform for AI agents (Python, TypeScript, React, Django, PostgreSQL, Redis, Celery, Docker)
-- 🏆 Recently shipped **[Stratos](https://github.com/Vedant-Jayesh-Oza)** — a multi-agent financial advisory system at the Amazon Nova AI Hackathon (OpenAI Agents SDK, Amazon Bedrock, FastAPI, Next.js, AWS, SageMaker, Terraform)
+- 🔭 Currently building **[OTAS](https://github.com/Vedant-Jayesh-Oza/otas)** — an observability platform for AI agents (Python, TypeScript, React, Django, PostgreSQL, Redis, Celery, Docker)
+- 🏆 Recently shipped **[Stratos](https://github.com/Vedant-Jayesh-Oza/Stratos)** — a multi-agent financial advisory system at the Amazon Nova AI Hackathon (OpenAI Agents SDK, Amazon Bedrock, FastAPI, Next.js, AWS, SageMaker, Terraform)
 - 💼 Graduating May 2026, open to full-time SWE and AI/ML roles
 - 👨‍💻 All projects: [voza.dev](https://voza.dev) | [GitHub](https://github.com/Vedant-Jayesh-Oza)
 - 📫 Reach me at **voza@usc.edu** or **651-334-9933**
